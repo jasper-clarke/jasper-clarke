@@ -6,8 +6,6 @@
 
 A Fullstack Web Developer and FOSS programmer.
 
-My previous GitHub account: [allusive-dev](https://github.com/allusive-dev)
-
 ### My Stack
 
 [![My Stack](https://skillicons.dev/icons?i=tailwind,ts,svelte,supabase)](https://skillicons.dev)
