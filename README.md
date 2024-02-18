@@ -14,9 +14,9 @@ A Fullstack Web Developer and FOSS programmer.
 
 [![My Other Skills](https://skillicons.dev/icons?i=js,html,css,github,git,gitlab,java,nix,py,vim)](https://skillicons.dev)
 
-### What I want to learn
+### What I'm currrently learning
 
-[![What I want to learn](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+[![What I want to learn](https://skillicons.dev/icons?i=rust,tauri)](https://skillicons.dev)
 
 </div>
 
