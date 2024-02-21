@@ -6,6 +6,8 @@
 
 A Fullstack Web Developer and FOSS programmer.
 
+<a href="https://app.daily.dev/jasper_at_windswept"><img src="./devcard.png" width="356" alt="Jasper's Dev Card"/></a>
+
 ### My Stack
 
 [![My Stack](https://skillicons.dev/icons?i=tailwind,ts,svelte,supabase)](https://skillicons.dev)
