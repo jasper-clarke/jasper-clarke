@@ -5,7 +5,7 @@
 
 ## Hey, I'm Jasper
 
-A Fullstack Web Developer, FOSS programmer and developer of since deceased Linux compositor, [Compfy](https://github.com/allusive-dev/compfy) 
+A Backend Web Developer, FOSS programmer and developer of since deceased Linux compositor, [Compfy](https://github.com/allusive-dev/compfy) 
 
 <a href="https://app.daily.dev/jasper_at_windswept"><img src="./devcard.png" width="356" alt="Jasper's Dev Card"/></a>
 
