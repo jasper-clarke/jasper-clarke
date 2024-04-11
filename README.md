@@ -11,7 +11,7 @@ A Backend Web Developer, FOSS programmer and developer of since deceased Linux c
 
 ### My Stack
 
-[![My Stack](https://skillicons.dev/icons?i=tailwind,ts,svelte,supabase)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=ts,svelte,supabase)](https://skillicons.dev)
 
 ### My Other Skills
 
