@@ -7,6 +7,8 @@
 
 A Backend Web Developer, FOSS programmer and developer of since deceased Linux compositor, [Compfy](https://github.com/allusive-dev/compfy) 
 
+Check out my new [Docs site](https://docs.windswept.digital/), I update it fairly often with a bunch of Linux, NixOS, Tech related posts, guides and support articles!
+
 <a href="https://app.daily.dev/jasper_at_windswept"><img src="./devcard.png" width="356" alt="Jasper's Dev Card"/></a>
 
 ### My Stack
