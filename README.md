@@ -22,6 +22,7 @@ Check out my new [Docs site](https://docs.windswept.digital/), I update it fairl
 ### Need to Contact Me?
 
 Discord: `jasper-at-windswept`
+
 Email: [jasper@windswept.digital](mailto:jasper@windswept.digital)
 
 
