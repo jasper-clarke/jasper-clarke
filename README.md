@@ -10,11 +10,11 @@ Check out my new [Docs site](https://docs.windswept.digital/), I update it fairl
 
 ### My Stack
 
-[![My Stack](https://skillicons.dev/icons?i=ts,svelte,supabase,rust)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=ts,svelte,react,supabase,rust)](https://skillicons.dev)
 
 ### My Other Skills
 
-[![My Other Skills](https://skillicons.dev/icons?i=js,html,css,github,git,gitlab,java,nix,py,vim)](https://skillicons.dev)
+[![My Other Skills](https://skillicons.dev/icons?i=github,git,gitlab,nix,py,neovim)](https://skillicons.dev)
 
 </div>
 
@@ -26,9 +26,3 @@ Email: [jasper@windswept.digital](mailto:jasper@windswept.digital)
 
 
 <div align="center">
-
-## Views
-
-<img src="https://count.getloli.com/get/@:jasper-at-windswept?theme=rule34" alt="The Count" />
-
-<div>
