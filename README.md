@@ -1,28 +1,27 @@
 <div align="center">
-
-[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/jasper-at-windswept)
-
-## Hey, I'm Jasper
-
-A Backend Developer, FOSS programmer and developer of since deceased Linux compositor, [Compfy](https://github.com/allusive-dev/compfy) 
-
-Check out my new [Docs site](https://docs.windswept.digital/), I update it fairly often with a bunch of Linux, NixOS, Tech related posts, guides and support articles!
-
-### My Stack
-
-[![My Stack](https://skillicons.dev/icons?i=ts,svelte,react,supabase,rust)](https://skillicons.dev)
-
-### My Other Skills
-
-[![My Other Skills](https://skillicons.dev/icons?i=github,git,gitlab,nix,py,neovim)](https://skillicons.dev)
-
+  <img height="150" src="images/japan-banner.gif"  />
 </div>
 
-
-### Need to Contact Me?
-
-Discord: `jasper-at-windswept` \
-Email: [jasper@windswept.digital](mailto:jasper@windswept.digital)
-
+###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/jasper-at-windswept"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Website&label=&color=37996B&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="my website link"  />
+</div>
+
+###
+
+<h1 align="center">Hello, I'm Jasper 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as a Fullstack Web and Mobile App Developer at Windswept Digital<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's</p>
+
+<p align="left">Check my LinkedIn for More information!</p>
+
+###
+
