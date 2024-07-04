@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="images/japan-banner.gif"  />
+  <img height="350" src="images/japan-banner.gif"  />
 </div>
 
 ###
