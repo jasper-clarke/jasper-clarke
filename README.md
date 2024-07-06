@@ -21,7 +21,5 @@
 
 <p align="left">- 🔭 I’m working as a Fullstack Web and Mobile App Developer at Windswept Digital<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's</p>
 
-<p align="left">Check my LinkedIn for More information!</p>
-
 ###
 
