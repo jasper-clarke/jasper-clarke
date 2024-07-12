@@ -23,3 +23,5 @@
 
 ###
 
+<p align="left">- What is Windswept Digital?<br><i>Windswept Digital is just a name I came up with that I thought resonated well with my love for Bonsai and the Windswept style, <br>It's not my business just my personal platform.</i></p>
+
