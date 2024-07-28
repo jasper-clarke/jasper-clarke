@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Backend Web Developer working with Typescript<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's<br>- 📚 I'm currently learning PHP and Gleam</p>
+<p align="left">- 🔭 I’m a Backend Web Developer working with PHP (and sometimes Typescript)<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's<br>- 📚 I'm currently learning Gleam</p>
 
 ###
 
