@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/jasper-at-windswept"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
   <a href="https://docs.windswept.digital"><img src="https://img.shields.io/static/v1?message=Website&label=&color=37996B&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="my website link"  /></a>
-  <a href="https://dev.to/jasper-at-windswept"><img src="https://img.shields.io/static/v1?message=Blog&logo=dev.to&label=&color=818CF8&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
+  <a href="https://dev.to/jasper-at-windswept"><img src="https://img.shields.io/static/v1?message=Blog&logo=dev.to&label=&color=818CF8&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="blog at dev.to"  /></a>
 </div>
 
 ###
