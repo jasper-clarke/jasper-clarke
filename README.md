@@ -34,7 +34,6 @@
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_svelte.png?raw=true" width=70>
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width=70>
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" width=70>
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nix.png?raw=true" width=70>
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" width=70>
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width=70>
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width=70>
