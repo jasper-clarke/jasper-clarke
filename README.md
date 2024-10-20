@@ -6,8 +6,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jasper-clarke"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
-  <a href="https://jasperclarke.com"><img src="https://img.shields.io/static/v1?message=Website&label=&color=37996B&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="my website"  /></a>
-  <a href="https://dev.to/jasper-clarke"><img src="https://img.shields.io/static/v1?message=Blog&logo=dev.to&label=&color=818CF8&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="blog at dev.to"  /></a>
+</div>
+
+<div align="center">
+  <a href="https://jasperclarke.com"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/PortfolioButton.png?raw=true" height="35" alt="My Website" /></a>
 </div>
 
 ###
@@ -37,7 +39,7 @@
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" width=70>
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" width=70>
   <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width=70>
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_gleam.png?raw=true" width=70>
+  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_golang.png?raw=true" width=70>
 </div>
 
 ###
