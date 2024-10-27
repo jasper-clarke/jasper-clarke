@@ -50,7 +50,3 @@
 
 <p align="left">- 🔭 I’m a Backend Web Developer working with PHP (and sometimes Typescript)<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's<br>- 📗 I'm currently learning Gleam</p>
 
-###
-
-<p align="left">- What is Windswept Digital?<br><i>Windswept Digital is just a name I came up with that I thought resonated well with my love for Bonsai and the Windswept style, <br>It's not my business(not yet at least) just my personal platform.</i></p>
-
