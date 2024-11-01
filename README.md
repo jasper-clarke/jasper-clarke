@@ -5,11 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jasper-clarke"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
-</div>
-
-<div align="center">
-  <a href="https://jasperclarke.com"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/PortfolioButton.png?raw=true" height="35" alt="My Website" /></a>
+  
+  <a href="https://www.linkedin.com/in/jasper-clarke"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true" height="28" alt="LinkedIn"  /></a>
+  <a href="https://jasperclarke.com"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="28" alt="My Website" /></a>
+  <a href="https://jasperclarke.com/blog"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="28" alt="My Blog" /></a>
 </div>
 
 ###
