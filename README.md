@@ -17,18 +17,6 @@
 
 ###
 
-<h3 align="left">🧰 Tools I Work With</h3>
-
-<div>
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width=70>
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width=70>
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width=70>
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width=70>
-  <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_vscode.png?raw=true" width=70>
-</div>
-
-###
-
 <h3 align="left">📚 My Personal Stack</h3>
 
 <div>
@@ -47,5 +35,5 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Backend Web Developer working with PHP (and sometimes Typescript)<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's<br>- 📗 I'm currently learning Golang</p>
+<p align="left">- 🔭 I’m a Backend Systems Developer working with Golang and Typescript<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's<br>- 📗 I'm currently learning Golang</p>
 
