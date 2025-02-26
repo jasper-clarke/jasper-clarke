@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="350" src="images/japan-banner.gif"  />
-</div>
-
-###
+<h1 align="center">Hello, I'm Jasper 👋</h1>
 
 <div align="center">
   
@@ -10,10 +6,6 @@
   <a href="https://jasperclarke.com"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="28" alt="My Website" /></a>
   <a href="https://jasperclarke.com/blog"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="28" alt="My Blog" /></a>
 </div>
-
-###
-
-<h1 align="center">Hello, I'm Jasper 👋</h1>
 
 ###
 
