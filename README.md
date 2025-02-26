@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Backend Systems Developer working with Golang and Typescript<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's</p>
+<p align="left">- 🔭 I’m a Backend Systems Developer working with Golang and Typescript<br>- ⚡ In my free time I play the Bass Guitar and tend to my Bonsai's<br>- 📘 I'm currently learning Japanese</p>
 
 ###
 
